@@ -140,7 +140,7 @@ if st.button("About App"):
 	st.text("Thanks to the Streamlit Team Amazing Work")
 
 if st.checkbox("By"):
-	st.text("Jesse E.Agbe(JCharis)")
-	st.text("Jesus Saves@JCharisTech")
+	st.text("siddhartha")
+	st.text("Data scientist")
 	
 	
