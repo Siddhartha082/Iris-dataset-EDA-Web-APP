@@ -41,8 +41,7 @@ streamlit run app.py
 
 
 #### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
+#Siddhartha @ Bangalore
 
 #### More Thanks to The Streamlit Team
 + Awesome Tool
