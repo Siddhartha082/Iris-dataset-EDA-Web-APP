@@ -1,7 +1,7 @@
 """
 ## App: Iris EDA App
-Author: [Jesse E.Agbe(JCharis)](https://github.com/Jcharis))\n
-Source: [Github](https://github.com/Jcharis/Machine-Learning-Web-Apps/tree/master/Iris_EDA_Web_App)
+Author: [Siddhartha](https://github.com/Siddhartha082))\n
+Source: [Github](https://github.com/Siddhartha082/Iris-dataset-EDA-Web-APP)
 Credits: Streamlit Team,Marc Skov Madsen(For Awesome-streamlit gallery)
 
 Description
@@ -157,8 +157,8 @@ def main():
     	st.text("Thanks to the Streamlit Team Amazing Work")
 
     if st.checkbox("By"):
-    	st.text("Jesse E.Agbe(JCharis)")
-    	st.text("Jesus Saves@JCharisTech")
+    	st.text("Siddhartha")
+    	st.text("Data Scientist- Bangalore")
 
 
 if __name__ == "__main__":
